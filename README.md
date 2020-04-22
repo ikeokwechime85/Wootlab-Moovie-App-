@@ -19,6 +19,13 @@ a-  Tts tasking fitting 10 movies on a page in an android pag of 360px X 640px (
     giving room to crate catgories without creating clusters.)
 b-  Every Becaus there was no spcific device size given, I built th moovie app with a basic standard android size which may not appear 
     properly on devices that are longer in size i.e Samsung Galaxy 9 or iPhone 11.
+    
+    FIGMA LINKS FOR THE APPS 
+    
+    MOBILE APP
+    https://www.figma.com/file/CnCboTnKbAR2DlCIczD6Ty/Untitled?node-id=13%3A72
    
+    WEB APP 
+    https://www.figma.com/file/vXbsKuOdEe06XS1UefA8L7/Untitled?node-id=0%3A1
 
   
